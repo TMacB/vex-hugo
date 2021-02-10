@@ -32,10 +32,9 @@ features:
   - title: Agility
     icon: tf-ion-ios-bell-outline
     content: Agility goes hand-in-hand with Strength.
-  - title: Easy Pricing
+  - title: Nutrition
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Get down to the shops for some good old nutritious food.
 hero:
   enable: true
   image: images/hero.png
