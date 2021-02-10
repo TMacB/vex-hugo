@@ -1,24 +1,26 @@
 ---
-title: "Galaxy Watch"
-date: 2019-10-17T11:22:16+06:00
-images: 
-  - "images/showcase/showcase-2.png"
-  - "images/showcase/showcase-1.png"
-  - "images/showcase/showcase-3.png"
-  - "images/showcase/showcase-4.png"
+title: '1 Day Off Road Motorcycle Experience '
+date: 2021-02-10T16:15:26+00:00
+images:
+- images/showcase/showcase-2.png
+- images/showcase/showcase-1.png
+- images/showcase/showcase-3.png
+- images/showcase/showcase-4.png
+description: this is meta description
+price: '195.00'
+discount_price: ''
+colors:
+- black
+- white
+- gray
+sizes:
+- small
+- medium
+- large
 
-# meta description
-description : "this is meta description"
-
-# product Price
-price: "30.00"
-discount_price: "25.00"
-
-# product variation
-colors : ["black","white","gray"]
-sizes : ["small","medium","large"]
-
-draft: false
 ---
+Join in a group session on a full day off road motorcycle experience, we go through a basic safety brief before heading out into the hills to cover our essential off road lessons and enjoy the Scottish scenery.
 
-Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.
+Sessions available at 3 locations in line with our calendar on the events page.
+
+Price includes motorcycle hire and VAT.
