@@ -2,10 +2,8 @@
 title: '1 Day Off Road Motorcycle Experience '
 date: 2021-02-10T16:15:26+00:00
 images:
-- images/showcase/showcase-2.png
-- images/showcase/showcase-1.png
-- images/showcase/showcase-3.png
-- images/showcase/showcase-4.png
+- "/images/1829077117.jpg"
+- "/images/1829066195.jpg"
 description: this is meta description
 price: '195.00'
 discount_price: ''
