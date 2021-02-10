@@ -53,7 +53,7 @@ promo:
   content: Now taking bookings for 2021
 about_product:
   enable: true
-  title: Experiences available
+  title: What do we do?
   items:
   - image: "/images/kevin_selfie.jpg"
     title: Off Road Experience
