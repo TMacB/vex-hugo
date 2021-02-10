@@ -37,7 +37,7 @@ features:
     content: Get down to the shops for some good old nutritious food.
 hero:
   enable: true
-  image: images/hero.png
+  bg_image: images/hero.png
   title: Off Road Motorcycle experiences based in Scotland
   content: Now taking bookings for 2021
 promo:
