@@ -1,5 +1,6 @@
 ---
-title: About
+# image: 'images/enduro_group.jpg'
+title: About Us
 description: this is a meta description
 office:
   title: Central Office
@@ -8,7 +9,7 @@ office:
   location: Dhaka, Bangladedsh
   content: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy
     eirmod tempor invidunt ut labore et dolore magna
-opennig_hour:
+opening_hour:
   title: Opening Hours
   day_time:
   - 'Monday: 9:00 – 19:00'

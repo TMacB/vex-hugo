@@ -62,7 +62,7 @@ hero:
   ############################# promo ############################
 promo:
   enable : true
-  image : "images/watch.png"
+  image : "images/enduro_group.jpg"
   title : "Off Road Motorcycle experiences based in Scotland"
   content : "Now taking bookings for 2021"
 
@@ -73,7 +73,7 @@ about_product:
   title : "Experiences available"
   items:
     # about product item loop
-    - image : "images/showcase/showcase-4.png"
+    - image : "/images/kevin_selfie.jpg"
       title : "Off Road Experience"
       content : "Taster sessions, full days or overnight trips, our training packages are designed to build confidence and help you progress in a safe & controlled environment."
       button:
@@ -103,7 +103,7 @@ about_product:
 #################################### Products ########################
 products:
   enable : true
-  title : "Checkout Our All Products"
+  title : "Checkout Our Products"
 
 
 ################################## Subscription ###################
