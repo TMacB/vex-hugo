@@ -20,3 +20,5 @@ fields:
 - type: text
   name: discount_price
   label: discount_price
+pages:
+- exampleSite/content/english/products/3-hour-off-road-motorcycle-experience-group-session.md
