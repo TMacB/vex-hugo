@@ -52,7 +52,7 @@ name = "Blog"
 url = "blog"
 weight = 3
 [[menu.main]]
-name = "Products"
+name = "Experiences"
 url = "products"
 weight = 2
 [[menu.main]]
