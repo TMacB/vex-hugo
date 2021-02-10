@@ -77,7 +77,10 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Our Experiences
+  title: Our Products
+activities:
+  enable: true
+  title: Our Activities
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
