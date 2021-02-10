@@ -52,8 +52,8 @@ name = "Blog"
 url = "blog"
 weight = 3
 [[menu.main]]
-name = "Experiences"
-url = "experiences"
+name = "Activities"
+url = "activities"
 weight = 2
 [[menu.main]]
 name = "Home"
