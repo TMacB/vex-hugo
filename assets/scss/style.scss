@@ -105,6 +105,14 @@ a {
   opacity: 0.75;
 }
 
+.bg-promo {
+  background-image: url(../images/enduro_group.jpg);
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+  opacity: 0.9;
+}
+
 .bg-primary {
   background: $primary-color;
 }
@@ -141,7 +149,7 @@ a:active {
   padding: 100px 0;
 }
 
-section.bg-hero {
+section.bg-hero, section.bg-promo {
   padding: 360px 0;
 }
 

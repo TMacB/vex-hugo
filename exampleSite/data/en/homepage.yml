@@ -42,7 +42,7 @@ hero:
   content: Now taking bookings for 2021
 promo:
   enable: true
-  image: images/enduro_group.jpg
+  bg_image: images/enduro_group.jpg
   title: Off Road Motorcycle experiences based in Scotland
   content: Now taking bookings for 2021
 about_product:
