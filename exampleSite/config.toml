@@ -1,5 +1,5 @@
 baseurl = "http://examplesite.com/"
-disableLanguages = []
+disableLanguages = ["fr"]
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
@@ -53,7 +53,7 @@ url = "blog"
 weight = 3
 [[menu.main]]
 name = "Experiences"
-url = "products"
+url = "experiences"
 weight = 2
 [[menu.main]]
 name = "Home"
