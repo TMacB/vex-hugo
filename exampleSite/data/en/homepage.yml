@@ -26,10 +26,9 @@ features:
     icon: tf-ion-ios-cart-outline
     content: It's an expensive game if you want to progress.
   right_side:
-  - title: Smooth Touch
+  - title: Strength
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Up early for strength training.
   - title: Elegant Design
     icon: tf-ion-ios-bell-outline
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
