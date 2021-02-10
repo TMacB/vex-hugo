@@ -11,6 +11,8 @@ colors: []
 sizes: []
 
 ---
-Join us on a 3 hour coaching session to give your confidence a boost or help you move up a level between competitions. We go through a basic safety brief and assessment before starting your targeted training session.
+Join us on a 3 hour coaching session to give your confidence a boost or help you move up a level between competitions. 
+
+We go through a basic safety brief and assessment before starting your targeted training session.
 
 Morning or afternoon sessions available at various locations in line with our calendar on the events page.
