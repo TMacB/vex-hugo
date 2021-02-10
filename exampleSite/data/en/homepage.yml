@@ -83,7 +83,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Our offerings
+  title: Our Experiences
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
