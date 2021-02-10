@@ -1,6 +1,6 @@
 ---
 title: 3 Hour 1 to 2 private coaching session - own motorcycle and kit
-date: 2019-10-17T11:22:16.000+06:00
+date: 2021-02-10T12:00:00+00:00
 images:
 - "/images/1829066707.jpg"
 - "/images/1829055915.jpg"
