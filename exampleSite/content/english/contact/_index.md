@@ -10,7 +10,7 @@ office:
   content : "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna"
 
 # opennig hour
-opennig_hour:
+opening_hour:
   title : "Opening Hours"
   day_time:
     - "Monday: 9:00 – 19:00"
