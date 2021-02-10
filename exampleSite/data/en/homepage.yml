@@ -87,8 +87,8 @@ products:
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+  title: Subscribe to our Newsletter
+  content: Get regular news, event and offers sent directly to your inbox.
   placeholder: Your Email Address Here
 testimonial:
   enable: true
