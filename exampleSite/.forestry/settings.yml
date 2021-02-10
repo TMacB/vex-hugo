@@ -5,6 +5,12 @@ admin_path: ''
 webhook_url: 
 sections:
 - type: heading
+  label: Activities
+- type: document
+  path: exampleSite/content/english/activities
+  label: Activity
+  match: "**/*"
+- type: heading
   label: Homepage
 - type: document
   path: exampleSite/data/en/homepage.yml
