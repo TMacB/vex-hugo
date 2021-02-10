@@ -22,10 +22,9 @@ features:
   - title: Shiny boots
     icon: tf-ion-ios-bell-outline
     content: Got to have nice clean boots at all times.
-  - title: Easy Pricing
+  - title: Deep pockets
     icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: It's an expensive game if you want to progress.
   right_side:
   - title: Smooth Touch
     icon: tf-ion-ios-alarm-outline
