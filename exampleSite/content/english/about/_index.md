@@ -1,5 +1,4 @@
 ---
-# image: 'images/enduro_group.jpg'
 title: About Us
 description: this is a meta description
 office:
@@ -21,3 +20,4 @@ opening_hour:
   - 'sunday: 9:00 – 19:00'
 
 ---
+All about us...
