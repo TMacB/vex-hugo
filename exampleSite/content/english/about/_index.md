@@ -20,4 +20,8 @@ opening_hour:
   - 'sunday: 9:00 – 19:00'
 
 ---
-All about us...
+## **Kevin Murray**
+
+### Manager and Head Coach
+
+A past Scottish and British Champion with 8 ISDE gold medals, Kevin has been instructing and coaching for over 20 years and is an ACU Enduro Coach and an MSA (Motor Sport Association) level 2 accredited coach, currently freelancing with the Scottish Motorsport Academy and BMW's acclaimed "Off Road Skills" riding experience. He invites you to Scotland to come and share his passion and enthusiasm for motorcycle sport.
