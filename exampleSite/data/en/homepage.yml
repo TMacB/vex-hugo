@@ -79,7 +79,7 @@ products:
   enable: true
   title: Products
 activities:
-  enable: true
+  enable: false
   title: Our Activities
 subscription:
   enable: true
