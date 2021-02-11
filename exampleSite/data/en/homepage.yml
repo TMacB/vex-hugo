@@ -76,7 +76,7 @@ about_product:
       label: Check Features
       link: "#"
 products:
-  enable: false
+  enable: true
   title: Products
 activities:
   enable: true
