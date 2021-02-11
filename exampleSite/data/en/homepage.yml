@@ -46,7 +46,7 @@ promo:
   title: Off Road Motorcycle experiences based in Scotland
   content: Now taking bookings for 2021
 about_product:
-  enable: true
+  enable: false
   title: What do we do?
   items:
   - image: "/images/kevin_selfie.jpg"
