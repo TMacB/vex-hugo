@@ -77,7 +77,7 @@ about_product:
       link: "#"
 products:
   enable: true
-  title: Products
+  title: Activities
 activities:
   enable: false
   title: Our Activities
