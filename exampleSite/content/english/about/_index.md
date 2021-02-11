@@ -24,9 +24,9 @@ opening_hour:
 
 ## Manager and Head Coach
 
-&`NewLine;`
+&nbsp;
 
-&`NewLine;`
+&nbsp;
 
 A Scottish and British Champion with 8 ISDE gold medals.
 
