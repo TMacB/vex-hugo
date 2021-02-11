@@ -28,6 +28,8 @@ opening_hour:
 
 A Scottish and British Champion with 8 ISDE gold medals.
 
-Kevin has been instructing and coaching for over 20 years, is an ACU Enduro Coach and an MSA (Motor Sport Association) level 2 accredited coach, currently freelancing with the Scottish Motorsport Academy and BMW's acclaimed "Off Road Skills" riding experience.
+Kevin has been instructing and coaching for over 20 years
+
+An ACU Enduro Coach and an MSA (Motor Sport Association) level 2 accredited coach, Kevin also freelances with the Scottish Motorsport Academy and BMW's acclaimed "Off Road Skills" riding experience.
 
 Kevin invites you to Scotland to come and share his passion and enthusiasm for motorcycle sport.
