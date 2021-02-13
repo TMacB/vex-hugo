@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   title: Believe in Technology, Make the change
   content: |-
     ### testing testing
